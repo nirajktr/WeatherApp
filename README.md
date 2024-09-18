@@ -63,7 +63,7 @@ WeatherApp is a Java-based command-line application that fetches real-time weath
 
 Note: You need to manually change the `stringCity` value in the source code and recompile the application each time you want to check the weather for a different city.
 
-## Sample Output
+## Sample
 Here is an output when ```stringCity = "Atlanta"```
 ![WeatherApp](./public/test.PNG)
 
