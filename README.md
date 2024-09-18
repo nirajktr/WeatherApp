@@ -7,6 +7,7 @@ WeatherApp is a Java-based command-line application that fetches real-time weath
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Sample](#Output)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 
