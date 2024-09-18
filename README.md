@@ -1,4 +1,4 @@
-# [WeatherApp](public/IMG_4419.PNG)
+![WeatherApp](./public/IMG_4419.PNG)
 
 WeatherApp is a Java-based command-line application that fetches real-time weather data from the OpenWeatherMap API for a specified city. The application uses Apache HttpClient for HTTP requests and JSON for parsing the response.
 
