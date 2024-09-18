@@ -1,5 +1,4 @@
 # WeatherApp
-![WeatherApp](./public/IMG_4419.PNG)
 
 WeatherApp is a Java-based command-line application that fetches real-time weather data from the OpenWeatherMap API for a specified city. The application uses Apache HttpClient for HTTP requests and JSON for parsing the response.
 
@@ -62,6 +61,10 @@ WeatherApp is a Java-based command-line application that fetches real-time weath
 5. The application will display the current weather information for the specified city.
 
 Note: You need to manually change the `stringCity` value in the source code and recompile the application each time you want to check the weather for a different city.
+
+## Sample Output
+Here is an output when ```stringCity = "Atlanta"```
+![WeatherApp](./public/test.PNG)
 
 ## Technologies
 - Java
